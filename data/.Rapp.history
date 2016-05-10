@@ -1,0 +1,5 @@
+load("/Users/David/Dropbox/Research/R Studio Projects/LymphoSeq/data/public.tcrb.database.rda")
+dim(public.tcrb.database.rda)
+dim(public.tcrb.database)
+load("/Users/David/Dropbox/Research/R Studio Projects/LymphoSeq/data/public.tcrb.database.rda")
+str(public.tcrb.database)

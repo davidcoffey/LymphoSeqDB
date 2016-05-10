@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/Dropbox/Research/R Studio Projects/LymphoSeqData",
+        "query" : "prevalence",
+        "regex" : false
+    }
+}
