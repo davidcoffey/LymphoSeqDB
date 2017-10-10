@@ -1,6 +1,6 @@
 Package: LymphoSeqDB
 Title: LymphoSeq annotation databases
-Version: 0.99.2
+Version: 0.99.3
 Author: David Coffey <dcoffey@fredhutch.org>
 Maintainer: David Coffey <dcoffey@fredhutch.org>
 Description: This package provides annotation databases that support the package LymphoSeq.
@@ -9,7 +9,7 @@ Depends:
 Imports:
 License: Artistic-2.0
 LazyData: true
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 biocViews:
     AnnotationData,
     SequenceAnnotation,

@@ -3,14 +3,14 @@ This package provides annotation databases that support the package LymphoSeq.
 
 ### Installation instructions
 
-#### Install release version 1.0.0
+#### Install release version 0.99.2
 ###### Install from [Bioconductor](https://www.bioconductor.org/packages/LymphoSeq)
 ```
 source("https://bioconductor.org/biocLite.R")
 biocLite("LymphoSeq")
 ```
 
-#### Install developer version 1.1.0
+#### Install developer version 0.99.3
 ###### Option 1:  Install from [Bioconductor developer branch](https://www.bioconductor.org/developers/how-to/useDevel/)
 ```
 # Switch to Bioconductor developer branch (requires latest version of R)
@@ -35,8 +35,8 @@ biocLite()
 install.packages("devtools")
 
 # Download package from GitHub
-install_github("davidcoffey/LymphoSeqDB")
-install_github("davidcoffey/LymphoSeq")
+devtools::install_github("davidcoffey/LymphoSeqDB")
+devtools::install_github("davidcoffey/LymphoSeq")
 ```
 
 ### Documentation
